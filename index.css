@@ -30,7 +30,6 @@ a:link, a:visited {
     padding: 14px 25px;
     text-align: center;
     text-decoration: none; /* removes underline */
-    display: inline-block;
   }
   
   a:hover, a:active {
