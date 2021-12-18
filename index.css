@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: orange;
+    font-family: 'Inconsolata', monospace;
+}
+
+img {
+    /* centering image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p,
+h4 {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+}
+
+table {
+    width: 90%;
+    font-family: 'Inconsolata', monospace;
+}
+
+/* Styling links */
+a:link, a:visited {
+    background-color: rgb(240, 164, 23);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none; /* removes underline */
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(227, 200, 79);
+  }
